@@ -7,4 +7,4 @@ En la consola Aranda Device Management, ingresar a **Conﬁguración > ADM > Com
 
 La conﬁguración del puerto depende de la administración, pero normalmente es el número 7, la ruta de almacenamiento de archivos corresponde a la ubicación temporal de almacenamiento.
 
-![conf_4]({{ site.baseurl }}/styleguide/images/conf_4.png)
+![conf_4]({{ site.baseurl }}/assets/images/conf_4.png)
