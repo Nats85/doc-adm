@@ -7,7 +7,8 @@ permalink: /
   <source src="https://arandasoftware.sharepoint.com/sites/Documentacion-RepositorioPortalDoc/Documentos%20compartidos/Repositorio%20Portal%20Doc/ASDK%20v8/1.2%20ASDKv8/1.2.1.1%20Preparacion%20VM/1.1.4.2%20Capsula%20-%20motor%20sql.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-
+<br/>
+<br/>
 **Aranda Device Management (ADM)** es un paquete de software diseñado para gestionar los activos informáticos de la compañía.
 Integra funcionalidades tales como inventario de activos, distribución de software, distribución de actualizaciones, control de licenciamiento, control de uso de software y políticas de ahorro de energía, entre otras.
 Con ADM es posible distribuir y mantener actualizado el software para evitar riesgos de seguridad, así como minimizar el impacto ambiental con la reducción del consumo de energía de las estaciones de trabajo y estar al día en cuanto al licenciamiento de software en la organización; todo lo anterior es posible gracias a la integración de diferentes herramientas de Aranda Software.
