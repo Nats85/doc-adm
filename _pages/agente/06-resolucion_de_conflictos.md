@@ -9,16 +9,16 @@ Todo agente instalado en un dispositivo realiza periódicamente una operación d
 
 Todas las máquinas que presenten conflictos serán marcadas y podrán ser filtradas en el listado para que el usuario pueda gestionarlas fácilmente.
 
-![agen_9]({{ site.baseurl }}/styleguide/images/agen_9.png)
+![agen_9]({{ site.baseurl }}/assets/images/agen_9.png)
 
 Al entrar a la hoja de vida el usuario verá una lista con todos los conflictos detectados para una máquina, para cada conflicto se indica el tipo y se muestra un selector para la acción a tomar. Los conflictos pueden ser de tres tipos: Hardware duplicado, Hardware inconsistente e identificador duplicado. La pestaña de ayuda en este pantalla explica cada uno de ellos y explica cómo deben resolverse.
 
-![agen_10]({{ site.baseurl }}/styleguide/images/agen_10.png)
+![agen_10]({{ site.baseurl }}/assets/images/agen_10.png)
 
 Las aciones a tomar son Asociar dispositivo, Crear dispositivo o aplazar la decisión dejándo la acción Pendiente. El usuario podría también Borrar el conflicto si considera que ya no volverá a ocurrir.
 
-![agen_11]({{ site.baseurl }}/styleguide/images/agen_11.png)
+![agen_11]({{ site.baseurl }}/assets/images/agen_11.png)
 
 Es posible que el usuario sepa de antemano qué un tipo específico de conflicto se presentará muy frecuentemente para una máquina. Por ejemplo, si una máquina virtual fue clonada muchas veces después de tener el agente instalado y se pretende ingresar todos los clones al sistema (generando conflictos de identificador duplicado), o si una máquina física es formateada y regingresada cada semana para ser usada en campañas diferentes (generando conflictos de hardware duplicado). En estos casos los conflictos son predecibles y el usuario puede configurar una acción automática en la hoja de vida.
 
-![agen_12]({{ site.baseurl }}/styleguide/images/agen_12.png)
+![agen_12]({{ site.baseurl }}/assets/images/agen_12.png)
