@@ -2,8 +2,7 @@
 title: Agente
 chapter: "instalacion"
 ---
-<br>
-<br>
+
 Para realizar la instalación del **Agente** de ADM por línea de comando se puede ejecutar la siguiente instrucción:
 
 
