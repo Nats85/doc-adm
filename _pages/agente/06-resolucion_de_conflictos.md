@@ -2,8 +2,7 @@
 title: Resolución de conﬂictos
 chapter: "agente"
 ---
-<br>
-<br>
+
 Desde la versión 9.5 la consola de administración de ADM permite visualizar y gestionar fácilmente los potenciales problemas de identificación que ocurren a los dispositivos. Estos problemas se conocen como conflictos y son mostrados en la hoja de vida de los dispositivos para que el usuario tome una decisión sobre cada uno de ellos. De esta manera se evitan más fácilmente inconsistencias como la suplantación de máquinas y la duplicidad de registros. La suplantación ocurre cuando muchos dispositivos se ven como uno solo en la consola, como efecto de clonación de equipos que ya tienen instalado el agente, principalmente. La duplicidad ocurre cuando una máquina tiene mas de un registro asociado en la consola, normalmente es debido al ingreso de máquinas que fueron formateadas después de tener agente instalado.
 
 Todo agente instalado en un dispositivo realiza periódicamente una operación de registro con su servidor, en donde se envían tres valores: una marca de hardware, la identificación asignada por el servidor y un token dinámico. Si alguno de estos valores no coincide con el que el servidor espera se bloquean permanentemente las solicitudes de este equipo y se muestra un conflicto en la hoja de vida respectiva en consola. El usuario debe entonces resolver el conflicto eligiendo una acción a tomar cuando la solicitud de registro sospechosa vuelva a presentarse. Cuando se presente la siguiente solicitud el conflicto quedará resuelto.
