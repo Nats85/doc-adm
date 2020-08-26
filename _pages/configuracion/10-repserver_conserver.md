@@ -15,4 +15,4 @@ Al momento de instalar el Conserver todos los archivos permanecen en la ruta <C:
 Iniciar el servicio Aranda Conserver Service, que permite la comunicación con el Repserver.
 
 
-![conf_3]({{ site.baseurl }}/styleguide/images/conf_3.png)
+![conf_3]({{ site.baseurl }}/assets/images/conf_3.png)
