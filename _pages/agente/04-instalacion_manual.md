@@ -29,7 +29,7 @@ Al ingresar el identificador del perfil en 0, significa que va a descargar el pe
 
 Ingresar el nombre de usuario y la organización donde se instalará el agente.
 
-![agen_5]({{ site.baseurl }}/sassets/images/agen_5.png)
+![agen_5]({{ site.baseurl }}/assets/images/agen_5.png)
 
 Seleccionar el tipo de instalación que desea realizar (Completa o Personalizada) y hacer clic en siguiente.
 
