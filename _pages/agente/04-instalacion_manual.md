@@ -2,8 +2,7 @@
 title: Instalación manual
 chapter: "agente"
 ---
-<br>
-<br>
+
 ### Agente
 
 Con esta conﬁguración va a poder acceder a la consola.
