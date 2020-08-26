@@ -7,9 +7,9 @@ Las políticas definen el comportamiento de un dispositivo con respecto al consu
 
 En el menú principal hacer clic en Políticas. Desplegar la lista Más opciones, haga clic en Política e ingresar la información solicitada.
 
-![agen_15]({{ site.baseurl }}/styleguide/images/agen_15.png)
+![agen_15]({{ site.baseurl }}/assets/images/agen_15.png)
 
 En la pantalla de creación de una nueva política, podrá realizar la configuración de restricciones, aplicaciones y energía.
 
 
-![agen_16]({{ site.baseurl }}/styleguide/images/agen_16.png)
+![agen_16]({{ site.baseurl }}/assets/images/agen_16.png)
