@@ -2,8 +2,7 @@
 title: Catalogo de Aplicaciones
 chapter: "configuracion"
 ---
-<br>
-<br>
+
 Por medio de este módulo se accede al catálogo de aplicaciones, este es utilizado como repositorio del módulo de actualizaciones, la funcionalidad principal es descargar todos los parches y mantenerlos en un contenedor localizado en los servidores de comunicaciones para que de esta manera se puedan utilizar en el módulo de actualizaciones.
 
 Para configurar el catálogo de aplicaciones, debe ingresar a **Configuración > Aranda Device Management > Catálogo de aplicaciones** y configurar el contenedor, dependiendo de la tecnología que desee usar (FTP, Sistema de Archivos o base de datos).
