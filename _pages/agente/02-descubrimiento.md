@@ -11,4 +11,4 @@ Ingresar a **Configuración > Aranda Device Management > Comunicaciones**, selec
 Ingresar la información en el programador para que ejecute, de lo contrario no se va realizar esta acción. Adicionalmente, ingresar la información de periodicidad para que se realice en un tiempo determinado, sin necesidad de configurar nuevamente.
 
 
-![agen_13]({{ site.baseurl }}/styleguide/images/agen_13.png)
+![agen_13]({{ site.baseurl }}/assets/images/agen_13.png)
