@@ -2,8 +2,7 @@
 title: Repserver y Conserver
 chapter: "configuracion"
 ---
-<br>
-<br>
+
 Al momento de instalar el Conserver todos los archivos permanecen en la ruta <C:\Program Files (x86)\Aranda\Conserver> allí se encuentra el archivo **Aranda.Conserver.Windows.Service.exe.conﬁg** el cual se debe conﬁgurar de la siguiente manera para que se comunique con el Repserver:
 
 
