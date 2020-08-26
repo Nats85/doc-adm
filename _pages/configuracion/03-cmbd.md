@@ -26,4 +26,4 @@ En esta pestaña se almacena la información para conectarse al servidor de Aran
 9. Allí debemos ingresar los siguientes datos: - Url del servidor - Usuario - Contraseña
 
 
-![cmbd_1]({{ site.baseurl }}/styleguide/images/cmbd_1.png)
+![cmbd_1]({{ site.baseurl }}/assets/images/cmbd_1.png)
