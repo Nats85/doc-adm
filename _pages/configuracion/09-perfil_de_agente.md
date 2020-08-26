@@ -8,4 +8,4 @@ El perﬁl es utilizado al momento de la instalación del agente; las funcionali
 A continuación, el paso a paso de la conﬁguración del perﬁl del agente. Ingresar a **Aranda Device Management >Perﬁl Agente**, despliegue la lista Más opciones y seleccione Perﬁl agente.
 
 
-![conf_6]({{ site.baseurl }}/styleguide/images/conf_6.png)
+![conf_6]({{ site.baseurl }}/assets/images/conf_6.png)
