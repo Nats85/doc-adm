@@ -10,4 +10,4 @@ Debe crear un grupo como árbol de ubicación (ver Grupos) y luego asociar los d
 Ingresar a **Configuración > ADM > Configuración Energía** en este módulo se ingresan los precios de energía y se visualizará el grupo de ubicación.
 
 
-![energ_1]({{ site.baseurl }}/styleguide/images/energ_1.png)
+![energ_1]({{ site.baseurl }}/assets/images/energ_1.png)
