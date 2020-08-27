@@ -3,7 +3,7 @@ title: Introducción
 permalink: /
 ---
 
-# Aranda Device Management (ADM)
+## Aranda Device Management (ADM)
 
 Es un paquete de software diseñado para gestionar los activos informáticos de la compañía.
 Integra funcionalidades tales como inventario de activos, distribución de software, distribución de actualizaciones, control de licenciamiento, control de uso de software y políticas de ahorro de energía, entre otras.
