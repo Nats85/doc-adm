@@ -25,6 +25,13 @@ language        : es
 styles          : /assets/css/style.css
 favicon         : /assets/branding/favicon.ico
 
+## Base Colors
+$heading-font-color:  $orange
+$highlighter-font-color: $orange
+$masthead-font-color: $orange
+$sidebar-color: $orange
+
+
 ## Enable to modify the CSS style
 #sass:
 #  sass_dir: styleguide/_scss
