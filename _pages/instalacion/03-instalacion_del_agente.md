@@ -1,8 +1,11 @@
-# Instalación del Agente en Windows {#instalaci-n-del-agente}
+---
+title: Instalación del Agente en Windows
+chapter: "instalacion"
+---
 
 ## Instalación usando el programa instalador
 
-El tercer instalador es `Aranda.Agent.Windows.x86\_x64` y sirve para instalar los servicios requeridos para el Agente ADM en Windows. 
+El tercer instalador es `Aranda.Agent.Windows.x86\_x64` y sirve para instalar los servicios requeridos para el Agente ADM en Windows.
 Puede instalarse de manera desatendida y automática a través de la funcionalidad de distribución de agente de la consola Web de ADM, o de forma manual haciendo uso de la interfaz de usuario.
 
 El siguiente es el paso a paso de la instalación manual del Agente: _**Hola como estas?**_
@@ -31,7 +34,7 @@ Para realizar la instalación del Agente ADM por línea de comando se puede ejec
 Aranda.Agent.Windows.x86\_x64.9.3.1803.0108 /S /V"/norestart /qn AGENT\_SERVER\_ADDRESS=http://localhost/Conserver AGENT\_PROFILE\_ID=0"
 ```
 
-| | | 
+| | |
 | :-- | :-- |
 | `AGENT\_PROFILE\_ID=\[UNIT\]` | Identificador del perfil a instalar, 0 es un perfil seleccionado en la aplicación como perfil por defecto. |
 | `AGENT\_SERVER\_ADDRESS=\[STRING\]` | es la ruta de Conserver. |
@@ -46,7 +49,7 @@ Para realizar la instalación del Agente ADM por línea de comando se puede ejec
 sh RUTA\_INSTALADOR/Aranda.Agent.Linux.x64.9.3.1801.3001.sh -- AGENT\_SERVER\_ADDRESS=http://localhost/Conserver AGENT\_PROFILE\_ID=0
 ```
 
-| | | 
+| | |
 | :-- | :-- |
 | `RUTA\_INSTALADOR=` | Ruta donde se encuentra el instalador, puede ser relativa o absoluta |
 | `AGENT\_PROFILE\_ID=\[UNIT\]` | Identificador del perfil a instalar, 0 es un perfil seleccionado en la aplicación como perfil por defecto |
@@ -61,4 +64,3 @@ Luego haga clic en **Más Opciones** y seleccione **Paquete**
 Suba el paquete del agente a instalar
 
 Después de transcurridas 8 horas el agente intenta actualizarse con la versión más reciente publicada en la consola.
-
