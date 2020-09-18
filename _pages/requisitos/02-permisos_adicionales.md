@@ -1,4 +1,7 @@
-## Permisos adicionales {#permisos-adicionales}
+---
+title: Permisos adicionales
+chapter: "reportes"
+---
 
 *   Se requiere tener activo .Net Framework 3.5.
 *   Se requiere tener activo .Net Framework 4.5.
