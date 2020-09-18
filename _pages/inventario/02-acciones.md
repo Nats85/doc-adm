@@ -1,4 +1,7 @@
-## Acciones {#acciones}
+---
+title: Acciones
+chapter: "inventario"
+---
 
 Las siguientes son las acciones disponibles para ejecutar sobre los dispositivos:
 
