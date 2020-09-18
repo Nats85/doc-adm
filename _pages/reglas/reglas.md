@@ -1,4 +1,7 @@
-# Reglas {#reglas}
+---
+title: Reglas
+chapter: "reglas"
+---
 
 El módulo de reglas se utiliza para automatizar el proceso de actualización de parches. Por medio de este proceso es posible programar la descarga de actualizaciones, programar el envío de ejecuciones, notificar alertas o enviar notificaciones por correo. Estas acciones se ejecutan siempre que las condiciones de la regla se cumplan.
 
