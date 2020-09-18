@@ -3,7 +3,7 @@ title: Software
 chapter: "software"
 ---
 
-### Configuración {#configuraci-n}
+### Configuración
 
 En el menú **Inicio &gt; Software &gt; Distribución** despliegue el menú de **Más opciones** y seleccione **Software**. Tenga en cuenta que previamente debe estar configurado el contenedor de archivos (Ver [7.2.4 Catálogo de aplicaciones](..\configuracion\catalogo_de_aplicaciones.md))
 
@@ -11,11 +11,11 @@ Ingrese la información del formulario, seleccione el tipo de sistema operativo 
 
 **NOTA:** El paquete de software debe estar previamente creado y configurado (ver [7.2.5.1 Creación de paquetes de software](..\configuracion\paquetes.md#creaci-n-de-paquetes-de-software)).
 
-### Acciones {#acciones}
+### Acciones
 
 Una vez configurado el proyecto, se mostrará el botón **Ver detalles**. Luego de entrar a la pantalla de detalles del proyecto, encontrará al costado izquierdo las acciones disponibles para realizar, a saber:
 
-#### Ejecutar proyecto {#ejecutar-proyecto}
+#### Ejecutar proyecto
 
 Esta acción se emplea para ejecutar el proyecto de distribución de software.
 
@@ -36,10 +36,10 @@ La ejecución del proyecto tiene disponible cuatro acciones ubicadas en la parte
 *   **Detener**: Si la ejecución del proyecto está vigente, interrumpe el proceso de distribución.
 *   **Eliminar**: Remueve del listado la ejecución seleccionada.
 
-#### Editar Proyecto {#editar-proyecto}
+#### Editar Proyecto
 
 Seleccionando esta opción usted podrá modificar la información suministrada en la creación del proyecto.
 
-#### Eliminar proyecto {#eliminar-proyecto}
+#### Eliminar proyecto
 
 Al seleccionar esta opción usted podrá eliminar el proyecto del listado de distribución, junto con toda la información de las ejecuciones. Aparecerá una ventana con un mensaje solicitando confirmar la acción.
