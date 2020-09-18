@@ -11,3 +11,5 @@ Para crear un nuevo ítem del catálogo, en **Software &gt; Catálogo**, desplie
 *   Versión
 *   Categorías de la aplicación
 *   Tipo de sistema operativo
+
+![]({{ site.baseurl }}/assets/images/crea_catalogo_1.png)
