@@ -1,4 +1,7 @@
-## Pantalla de detalles de software {#pantalla-de-detalles-de-software}
+---
+title: Pantalla de detalles de software
+chapter: "software"
+---
 
 Al hacer clic sobre cualquiera de los elementos listados en **Inicio &gt; Software &gt; Catálogo**, al lado derecho de la pantalla visualizará el botón **Ver detalles**, el cual conduce a la pantalla de detalles del software.
 
