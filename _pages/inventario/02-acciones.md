@@ -204,9 +204,4 @@ Aquí podrá buscar y seleccionar al usuario que será responsable de los dispos
 
 Esta acción le permite resolver conflictos de hardware duplicado y de identificador duplicado en el dispositivo con dos soluciones posibles que deben aplicarse así:
 
-| **Conflicto** | **Soluciones** |
-| --- | --- |
-| Hardware duplicado: | Asociar dispositivo: |
-|  | Crear dispositivo: |
-| Identificador duplicado: | Asociar dispositivo: |
-|  | Crear dispositivo: |
+![]({{ site.baseurl }}/assets/images/tabla10.png)
