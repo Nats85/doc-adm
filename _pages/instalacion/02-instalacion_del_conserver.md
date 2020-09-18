@@ -1,7 +1,10 @@
-# Instalación del Conserver {#instalaci-n-del-conserver}
+---
+title: Instalación del Conservers
+chapter: "instalacion"
+---
 
-El segundo instalador es `Aranda.Conserver.Installer` el cual instala el servicio del Conserver. 
-Se deberá instalar un servicio por cada segmento de red. 
+El segundo instalador es `Aranda.Conserver.Installer` el cual instala el servicio del Conserver.
+Se deberá instalar un servicio por cada segmento de red.
 El siguiente es el paso a paso de la instalación del Conserver.
 
 Al hacer clic sobre el instalador, visualizará la siguiente advertencia.
