@@ -1,4 +1,7 @@
-# Obtención y procesamiento de inventarios {#obtenci-n-y-procesamiento-de-inventarios}
+---
+title: Obtención y procesamiento de inventarios
+chapter: "inventarios"
+---
 
 La información de cada dispositivo se obtiene de varias maneras:
 
@@ -14,7 +17,7 @@ Los paquetes en algunas ocasiones son fraccionados y generados de manera increme
 
 **Tamaño máximo de inventarios**
 
-| | | 
+| | |
 | :--- | :-- |
 | **HW/SW** | 100 kb |
 | **Archivos totales** | 1 MB |
