@@ -1,4 +1,7 @@
-## Obtener inventario {#obtener-inventario}
+---
+title: Obtener inventario
+chapter: "software"
+---
 
 Esta acción realiza una petición de inventario a todos los dispositivos en los que esté instalado el software que se haya seleccionado de la lista de la izquierda.
 
