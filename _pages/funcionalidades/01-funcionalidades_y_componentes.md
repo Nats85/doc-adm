@@ -1,4 +1,7 @@
-# Funcionalidades y componentes {#funcionalidades-y-componentes}
+---
+title: Funcionalidades y componentes
+chapter: "funcionalidades"
+---
 
 ![](/assets/componentes-adm.png)
 
@@ -16,4 +19,3 @@ El **Conserver** \(servidor de comunicaciones\) actúa como enlace entre los com
 El **Agente** es un programa instalado en cada máquina gestionada que permite la generación de inventarios y la administración segura de comandos provenientes del servidor. Los agentes se comunican entre sí a través de P2P \(red entre pares\) para facilitar la distribución de archivos y para reducir sustancialmente la ocupación del canal de entrada de la red corporativa. Existe un agente para cada una de las plataformas soportadas. Los agentes normalmente son instalados en las máquinas a través de un proceso de distribución guiado desde la consola, sin embargo, existen múltiples alternativas de despliegue las cuales pueden combinarse para cubrir los diferentes escenarios de infraestructura. Al instalar el agente, se crea una serie de servicios en el dispositivo que permiten establecer la comunicación con el visor de control remoto y la gestión general del dispositivo.
 
 El **Visor de Soporte Remoto** es un aplicativo que permite tomar control remoto de las máquinas gestionadas y debe estar instalado en la red LAN para que pueda acceder a ellas. Este visor debe tener también acceso al servidor de aplicaciones para poder autorizar y coordinar la sesión.
-
