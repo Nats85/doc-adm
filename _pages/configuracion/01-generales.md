@@ -1,4 +1,7 @@
-## Generales {#generales}
+---
+title: Generales
+chapter: "configuracion"
+---
 
 ### Roles y permisos {#roles-y-permisos}
 
