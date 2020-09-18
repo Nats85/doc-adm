@@ -1,4 +1,7 @@
-## Restricción de software {#restricci-n-de-software}
+---
+title: Restricción de software
+chapter: "software"
+---
 
 Con esta acción usted podrá seleccionar cuál software se permite en la organización y cuál no. Esto ayuda a tener un control en todas las estaciones de trabajo identificando qué usuarios tienen instalado software no autorizado.
 
