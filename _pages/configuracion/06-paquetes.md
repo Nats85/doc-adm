@@ -5,7 +5,7 @@ chapter: "configuracion"
 
 Este módulo permite cargar ejecutables con extensiones BAT, MSI, MSU y EXE, creando paquetes útiles en los proyectos de distribución de agente y software; teniendo en cuenta que estos tienen una única configuración de arquitectura y sistema operativo.
 
-### Creación de paquetes de software {#creaci-n-de-paquetes-de-software}
+### Creación de paquetes de software
 
 Para configurar paquetes de agente, ingrese a **Configuración &gt; ADM &gt; Paquetes**, despliegue la lista **Más opciones** y seleccione la opción **Paquete**.
 
@@ -13,7 +13,7 @@ Para configurar paquetes de agente, ingrese a **Configuración &gt; ADM &gt; Paq
 
 Diligencie la información del formulario según el tipo de sistema operativo:
 
-#### Windows {#windows}
+#### Windows
 
 1.  Seleccione el tipo de paquete: Software.
 2.  Tipo de sistema operativo: Windows.
@@ -23,7 +23,7 @@ Diligencie la información del formulario según el tipo de sistema operativo:
 6.  Ingrese una breve descripción.
 7.  Seleccione el archivo.
 
-#### Linux {#linux}
+#### Linux
 
 1.  Seleccione el tipo de paquete: Software.
 2.  Tipo de sistema operativo: Linux.
@@ -33,7 +33,7 @@ Diligencie la información del formulario según el tipo de sistema operativo:
 6.  Ingrese una breve descripción.
 7.  Seleccione el archivo.
 
-#### Mac {#mac}
+#### Mac
 
 1.  Seleccione el tipo de paquete: Software.
 2.  Tipo de sistema operativo: Linux.
@@ -43,20 +43,20 @@ Diligencie la información del formulario según el tipo de sistema operativo:
 6.  Ingrese una breve descripción.
 7.  Seleccione el archivo.
 
-### Creación de paquetes de agente {#creaci-n-de-paquetes-de-agente}
+### Creación de paquetes de agente
 
 Para configurar paquetes de agente, ingrese a **Configuración &gt; ADM &gt; Paquetes**, despliegue la lista **Más opciones** y seleccione la opción **Paquete**:
 
-#### Windows {#windows-0}
+#### Windows
 
 Seleccione el agente para tipo de sistema operativo **Windows**, una vez seleccionado el archivo, la información del formulario se diligenciará automáticamente. Si desea puede ingresar una breve descripción del paquete.
 
-#### Linux {#linux-0}
+#### Linux
 
 Seleccione el agente para el tipo de sistema operativo **Linux**, una vez seleccionado el archivo, la información del formulario se diligenciará automáticamente. Si desea puede ingresar una breve descripción del paquete.
 
 **Nota:** El agente no es soportado para distribuciones Linux de 32 bits
 
-#### Mac {#mac-0}
+#### Mac
 
 Seleccione el agente para el tipo de sistema operativo **Mac**, una vez seleccionado el archivo, la información del formulario se diligenciará automáticamente. Si desea puede ingresar una breve descripción del paquete.
