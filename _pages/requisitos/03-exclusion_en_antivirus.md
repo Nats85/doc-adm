@@ -1,6 +1,6 @@
 ---
 title: Exclusiones Requeridas en el Antivirus
-chapter: "reportes"
+chapter: "requisitos"
 ---
 
 Los programas antivirus deberán configurarse con las siguientes inclusiones en los computadores donde se hará instalación del Agente:
