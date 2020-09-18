@@ -7,4 +7,5 @@ Para ingresar haga clic en **Configuración &gt; ADM &gt; Medición**. En esta s
 
 **NOTA**: Tenga en cuenta que esta acción se realiza únicamente sobre agrupaciones de ejecutables (ver Grupos).
 
+[]({{ site.baseurl }}/assets/images/tabla8.png)
 []({{ site.baseurl }}/assets/images/med_1.png)
