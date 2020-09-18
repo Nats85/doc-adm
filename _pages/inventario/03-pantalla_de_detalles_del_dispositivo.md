@@ -184,15 +184,8 @@ Podemos usar esta función ante un cambio involuntario que se haya podido realiz
 
 Los puntos de restauración son una copia exacta del sistema operativo para algunas de las distribuciones de Windows; tenga en cuenta que para las distribuciones de Windows Server está disponible Windows Server Backup, la cual le proporciona un conjunto de asistentes y otras herramientas para realizar tareas básicas de copia y recuperación para el servidor. Las siguientes son las distribuciones con las cuales es posible usar esta funcionalidad:
 
-| **Plataforma** | **Si** | **No** |
-| --- | --- | --- |
-| Windows 7 | X |  |
-| Windows Vista | X |  |
-| Windows 8 | X |  |
-| Windows 8.1 | X |  |
-| Windows 10 | X |  |
-| Windows Server 2008 |  | X |
-| Windows Server 2012 R2 |  | X |
+![]({{ site.baseurl }}/assets/images/tabla_11.png)
+
 
 **NOTA**: Si la máquina a la que se le aplicó un punto de restauración pertenece a un dominio, existe la posibilidad de que esta haya sido desasociada. Por lo anterior, se recomienda realizar nuevamente el proceso de integración de la máquina al dominio.
 
@@ -300,18 +293,7 @@ Aparecerá la siguiente pantalla:
 Diligencie los campos **Etiqueta del campo adicional, Texto descriptivo, Texto de ayuda (Opcional)** y **Tipo de campo** en el cual están las siguientes opciones:
 
 
-| **Tipo de campo** | **Descripción** |
-| --- | --- |
-| Texto corto | Cadena de texto corto con longitud máxima de 55 caracteres |
-| Entero | Valor numérico |
-| Fecha completa | Fecha en formato dd/MM/yyyy HH:mm |
-| Hora | Hora en formato HH:mm |
-| Fecha | Fecha en formato dd/MM/yyyy |
-| Lista de opciones | Despliega un listado de opciones con selección de una única opción |
-| Texto largo | Bloque de texto con longitud máxima de 255 caracteres |
-| Booleano | Estados activo/inactivo |
-| Decimal | Valor numérico con separador de decimales |
-| Vínculo | Enlace de navegación |
+![]({{ site.baseurl }}/assets/images/tabla_12.png)
 
 Después de diligenciar estos campos haga clic en el botón **Agregar**. Encontrará que el campo adicional ha sido creado de la siguiente manera:
 
