@@ -1,4 +1,7 @@
-# Alertas {#alertas}
+---
+title: Alertas
+chapter: "alertas"
+---
 
 Este módulo de ADM permite visualizar las alertas generadas por la consola en respuesta a situaciones especiales que deben ser atendidas por el administrador. Las alertas pueden ser acerca de dispositivos, licencias, actualizaciones o cualquier otro concepto del producto y son configuradas previamente por el usuario en **Configuración &gt; Generales &gt; Alertas** (ver [7.1.5 Alertas](#alertas)) o en **Inicio &gt; Reglas** (ver [11\. Reglas](reglas.md)).
 
