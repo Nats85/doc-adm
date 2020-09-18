@@ -1,4 +1,7 @@
-## Mini DashBoard {#mini-dashboard}
+---
+title: Mini DashBoard
+chapter: "software"
+---
 
 Al seleccionar uno de los elementos del listado, se mostrará a la derecha una mini dashboard (panel de control) que incluye la información del software, el total de instalaciones realizadas, las instalaciones que no tienen licencias asociadas y la cantidad de licencias disponibles.
 
