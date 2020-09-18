@@ -3,7 +3,7 @@ title: Instalación del Agente en Windows
 chapter: "instalacion"
 ---
 
-## Instalación usando el programa instalador
+### Instalación usando el programa instalador
 
 El tercer instalador es `Aranda.Agent.Windows.x86\_x64` y sirve para instalar los servicios requeridos para el Agente ADM en Windows.
 Puede instalarse de manera desatendida y automática a través de la funcionalidad de distribución de agente de la consola Web de ADM, o de forma manual haciendo uso de la interfaz de usuario.
@@ -44,7 +44,7 @@ Una vez finalizada la instalación del agente, haga clic en **Finalizar**
 
 ![]({{ site.baseurl }}/assets/images/agen_8.png)
 
-## Instalación manual del Agente por línea de comandos en
+### Instalación manual del Agente por línea de comandos en
 
 Para realizar la instalación del Agente ADM por línea de comando se puede ejecutar la siguiente instrucción desde el _command promt_ de Windows:
 
@@ -57,7 +57,7 @@ Aranda.Agent.Windows.x86\_x64.9.3.1803.0108 /S /V"/norestart /qn AGENT\_SERVER\_
 | `AGENT\_PROFILE\_ID=\[UNIT\]` | Identificador del perfil a instalar, 0 es un perfil seleccionado en la aplicación como perfil por defecto. |
 | `AGENT\_SERVER\_ADDRESS=\[STRING\]` | es la ruta de Conserver. |
 
-## Instalación manual del Agente por línea de comandos en Linux y OSX {#instalaci-n-manual-del-agente-por-l-nea-de-comando-linux-macos}
+### Instalación manual del Agente por línea de comandos en Linux y OSX
 
 Para realizar la instalación del Agente ADM por línea de comando se puede ejecutar la siguiente instrucción desde un intérprete de comandos de Linux o macOS
 
@@ -73,9 +73,10 @@ sh RUTA\_INSTALADOR/Aranda.Agent.Linux.x64.9.3.1801.3001.sh -- AGENT\_SERVER\_AD
 | `AGENT\_PROFILE\_ID=\[UNIT\]` | Identificador del perfil a instalar, 0 es un perfil seleccionado en la aplicación como perfil por defecto |
 | `AGENT\_SERVER\_ADDRESS=\[STRING\]` | es la ruta de Conserver. |
 
-### Actualización automática del Agente {#actualizaci-n-autom-tica-del-agente}
+### Actualización automática del Agente
 
-Para realizar la actualización automática del agente, ingrese a la consola Web de ADM y diríjase a **Configuración &gt; ADM &gt;** **Paquetes**.
+Para realizar la actualización automática del agente, ingrese a la consola Web de ADM y diríjase a
+**Configuración &gt; ADM &gt;** **Paquetes**.
 
 Luego haga clic en **Más Opciones** y seleccione **Paquete**
 
