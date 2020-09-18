@@ -6,3 +6,5 @@ chapter: "alertas"
 Este módulo de ADM permite visualizar las alertas generadas por la consola en respuesta a situaciones especiales que deben ser atendidas por el administrador. Las alertas pueden ser acerca de dispositivos, licencias, actualizaciones o cualquier otro concepto del producto y son configuradas previamente por el usuario en **Configuración &gt; Generales &gt; Alertas** (ver [7.1.5 Alertas](#alertas)) o en **Inicio &gt; Reglas** (ver [11\. Reglas](reglas.md)).
 
 Al seleccionar una alerta de la lista, al costado derecho podrá establecer si el estado de la misma es nueva, revisada o cerrada, y agregar un comentario en la parte inferior. Toda alerta ingresa al listado en estado nueva y el usuario es el encargado de cambiar su estado y adjuntar los comentarios que se requieran dependiendo del progreso.
+
+![]({{ site.baseurl }}/assets/images/alert_1.png)
