@@ -1,6 +1,9 @@
-# Instalación del visor de soporte remoto {#instalaci-n-del-visor-de-soporte-remoto}
+---
+title: Instalación del visor de soporte remoto
+chapter: "instalacion"
+---
 
-El cuarto instalador es para el componente utilitario y se llama `Aranda.ADM.Utils.Installer`. 
+El cuarto instalador es para el componente utilitario y se llama `Aranda.ADM.Utils.Installer`.
 Para instalarlo haga clic sobre el instalador.
 
 Se visualizará un mensaje informando que se va a instalar `Aranda.ADM.Utils.Installer` Haga clic en **Next** (Siguiente).
