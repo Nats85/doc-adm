@@ -1,4 +1,7 @@
-## Agente {#agente}
+---
+title: Agente
+chapter: "software"
+---
 
 Para realizar la distribución del agente se debe realizar la configuración que se indica a continuación en el diagrama:
 
