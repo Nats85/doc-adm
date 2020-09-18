@@ -1,4 +1,7 @@
-## Pantalla de detalles del dispositivo {#pantalla-de-detalles-del-dispositivo}
+---
+title: Pantalla de detalles del dispositivo
+chapter: "inventario"
+---
 
 Al hacer clic sobre cualquiera de los dispositivos listados en **Inicio &gt; Inventario &gt; Dispositivos**, al lado derecho de la pantalla visualizará el botón **Ver detalles**, el cual conduce a la pantalla de detalles del dispositivo.
 
