@@ -5,10 +5,17 @@ chapter: "politicas"
 
 En esta opción se realiza la configuración de los planes de energía. Para poder hacer uso de esta configuración se debe hacer la activación de la opción ‘Configurar planes de energía’.
 
+![]({{ site.baseurl }}/assets/images/energy_1.png)
+
 Seleccione la opción ‘Agregar nuevo plan de energía’ y diligencie el formulario según requiera aplicar la configuración (Configuración de inactividad o ajustes de estado).
 
 *   Configuración de inactividad
+
+![]({{ site.baseurl }}/assets/images/energy_2.png)
+
 *   Ajustes de estado
+
+![]({{ site.baseurl }}/assets/images/energy_3.png)
 
 Una vez haya diligenciado la información del formulario, haga clic sobre el botón ‘Guardar’, se habilitarán dos opciones adicionales de configuración: Programador y Calculadora de ahorros.
 
