@@ -1,9 +1,9 @@
 ---
-title: Puertos utilizados por la aplicación
+title: 2.	Requisitos de hardware y software
 chapter: "requisitos"
 ---
 
-Los siguientes son los puertos de comunicación usados por Aranda Device Management (ADM).
-Es necesario configurar la red para permitir las comunicaciones a través de estos puertos.
+Se recomienda la siguiente configuración para administrar entre 1 y 2500 dispositivos.
 
-![]({{ site.baseurl }}/assets/images/tabla1.png)
+![]({{ site.baseurl }}/assets/images/tabla.png)
+[]({{ site.baseurl }}/assets/images/tabla0.png)
