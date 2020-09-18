@@ -10,3 +10,5 @@ En **Inicio &gt; Políticas**, en la parte izquierda de la pantalla se visualiza
 Los dispositivos a los que se les aplicará la política deben estar agrupados en un árbol de ubicación que debe crearse previamente (ver [7.1.3 Grupos](catalogo\pantalla_de_detalles_de_software.md#grupos)) y luego asociar los dispositivos que se requieran.
 
 Para ingresar los precios de energía, diríjase a **Configuración &gt; ADM &gt; Configuración Energía**, en este módulo también podrá visualizar el grupo de ubicación.
+
+![]({{ site.baseurl }}/assets/images/conf_energia_1.png)
