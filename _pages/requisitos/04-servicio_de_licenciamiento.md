@@ -1,4 +1,7 @@
-## Servicio de licenciamiento {#servicio-de-licenciamiento}
+---
+title: Servicio de licenciamiento
+chapter: "requisitos"
+---
 
 ADM utiliza el servicio común de licenciamiento de Aranda para autorizar el ingreso a usuarios a la consola y controlar las licencias compradas, entre otras operaciones.
 Este es un servicio de Windows que normalmente es creado de manera automática por el instalador del producto.
