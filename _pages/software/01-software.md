@@ -1,4 +1,7 @@
-## Software {#software}
+---
+title: Software
+chapter: "software"
+---
 
 ### Configuración {#configuraci-n}
 
