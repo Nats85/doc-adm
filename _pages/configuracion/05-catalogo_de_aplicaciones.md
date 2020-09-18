@@ -9,10 +9,10 @@ Para configurar el catálogo de aplicaciones, ingrese a **Configuración &gt; AD
 
 Con el programador, es posible configurar las descargas del catálogo en los intervalos deseados de acuerdo a una programación semanal. Ingrese la programación y haga clic en **Guardar**, la descarga del catálogo de actualizaciones toma aproximadamente una hora.
 
-### FTP (Protocolo de transferencia de archivos) {#ftp-protocolo-de-transferencia-de-archivos}
+### FTP (Protocolo de transferencia de archivos)
 
 Permite realizar la configuración de un FTP para almacenar los paquetes de los proyectos de distribución.
 
-### Base de datos {#base-de-datos}
+### Base de datos
 
 Esta opción permite realizar la configuración local o remota de una base de datos con el fin de almacenar los paquetes de los proyectos de distribución.
