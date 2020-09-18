@@ -3,21 +3,21 @@ title: Comunicaciones
 chapter: "configuracion"
 ---
 
-### Repserver {#repserver}
+### Repserver
 
 Ingrese a **Configuración &gt; ADM &gt; Comunicaciones**, y visualizará un árbol cuyo nodo principal es el RepServer, este siempre será visible y solo debe existir uno en estado activo. La primera vez que se ingresa a la consola se debe configurar la dirección del nodo de comunicaciones. Para obtener la dirección del RepServer, ingrese al **IIS (Internet Information Services) &gt; Sitios &gt;Sitios por defecto &gt; Repserver**.
 
 Al hacer clic en **Browse** (navegar) por el puerto, se abre un navegador con la URL de la aplicación web, en este caso la URL es [https://localhost/Repserver/](https://localhost/Repserver/), la sección de dominio &#039;localhost&#039; se debe reemplazar por la dirección IP del dispositivo o el nombre. Copie esta URL y péguela en el campo **Dirección nodo de comunicaciones**. En el campo **Almacenamiento de archivos**, ingrese la ruta donde van a permanecer los archivos temporalmente, luego haga clic en **Probar conexión** y **Guardar**. Al finalizar, se debe visualizar una pantalla informando que se encuentra en línea el Repserver.
 
-### Comunicación de agente {#comunicaci-n-de-agente}
+### Comunicación de agente
 
 En la pantalla Comunicaciones seleccione la pestaña **Comunicación de agente** del RepServer.
 
-#### Configuración global {#configuraci-n-global}
+#### Configuración global
 
 En la sección de configuración global para las comunicaciones del agente se debe ingresar la información correspondiente a los intervalos de sincronización y el puerto designado.
 
-#### Configuración P2P {#configuraci-n-p2p}
+#### Configuración P2P
 
 Al activar esta característica se puede realizar la descarga de archivos a través de red P2P (Peer to Peer). Una vez activo se habilitarán los siguientes campos:
 
@@ -26,7 +26,7 @@ Al activar esta característica se puede realizar la descarga de archivos a trav
 *   Velocidad de descarga.
 *   Velocidad de subida.
 
-### Conserver {#conserver}
+### Conserver
 
 Al momento de instalar el Conserver todos los archivos permanecen en la ruta **C:\ Program Files (x86) \ Aranda \ Conserver**, allí se encuentra el archivo Aranda.Conserver.Windows.Service.exe.config el cual se debe configurar de la siguiente manera para que se comunique con el Repserver:
 
@@ -54,7 +54,7 @@ En la consola Aranda Device Management, ingrese a **Configuración &gt; ADM &gt;
 
 La primera vez que se visualiza el Conserver se debe realizar la configuración de los campos **Puerto Wake on LAN** y **Almacenamiento de archivos**. La configuración del puerto depende de la administración, pero normalmente es el número 7, la ruta de almacenamiento de archivos corresponde a la ubicación temporal de almacenamiento.
 
-### Descubrimiento de dispositivos {#descubrimiento-de-dispositivos}
+### Descubrimiento de dispositivos
 
 El descubrimiento de dispositivos se realiza solo la primera vez que se desea instalar el agente a un dispositivo, este se puede realizar por diferentes medios (IP, DNS, ICMP, NetBIOS SMB, WMI, Dominio). El siguiente es el paso a paso de la configuración del descubrimiento de dispositivos.
 
