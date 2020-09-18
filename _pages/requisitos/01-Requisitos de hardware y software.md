@@ -1,5 +1,5 @@
 ---
-title: 2.	Requisitos de hardware y software
+title: Requisitos de hardware y software
 chapter: "requisitos"
 ---
 
