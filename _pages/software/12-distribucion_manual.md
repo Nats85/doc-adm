@@ -1,4 +1,7 @@
-## Distribución manual {#distribuci-n-manual}
+---
+title: Distribución manual
+chapter: "software"
+---
 
 En **Inicio &gt; Software &gt; Actualizaciones**, podrá visualizar todas las actualizaciones disponibles para realizar las descargas. Es posible buscar un parche en particular y ejecutar su instalación.
 
