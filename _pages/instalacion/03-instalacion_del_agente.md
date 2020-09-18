@@ -12,21 +12,39 @@ El siguiente es el paso a paso de la instalación manual del Agente: _**Hola com
 
 Haga clic sobre el instalador Aranda Agent.
 
+![]({{ site.baseurl }}/assets/images/agen_1.png)
+
 A continuación, visualizará un mensaje informando que se va a instalar Aranda Agent.
+
+![]({{ site.baseurl }}/assets/images/agen_2.png)
 
 Si tiene un archivo de configuración seleccione **Sí** e ingrese la ruta, de lo contrario, seleccione **No** y haga clic en **Siguiente**.
 
-Al ingresar 0 como identificador del perfil, significa que va a descargar el perfil que esté configurado por defecto; ingrese la dirección de Conserver \(se encuentra en el módulo **Configuración &gt; Aranda Device Management &gt; Comunicaciones &gt; Nodo del Conserver**\).
+![]({{ site.baseurl }}/assets/images/agen_3.png)
+
+Al ingresar 0 como identificador del perfil, significa que va a descargar el perfil que esté configurado por defecto; ingrese la dirección de Conserver \(se encuentra en el módulo
+
+  **Configuración &gt; Aranda Device Management &gt; Comunicaciones &gt; Nodo del Conserver**\).
+
+![]({{ site.baseurl }}/assets/images/agen_4.png)
 
 Ingrese el nombre de usuario y la organización donde se instalará el agente.
 
-Seleccione el tipo de instalación que desea realizar \(completa o personalizada\) y haga clic en S**iguiente**.
+![]({{ site.baseurl }}/assets/images/agen_5.png)
+
+Seleccione el tipo de instalación que desea realizar \(completa o personalizada\) y haga clic en **Siguiente**.
+
+![]({{ site.baseurl }}/assets/images/agen_6.png)
 
 A continuación, iniciará la instalación del agente.
 
+![]({{ site.baseurl }}/assets/images/agen_7.png)
+
 Una vez finalizada la instalación del agente, haga clic en **Finalizar**
 
-## Instalación manual del Agente por línea de comandos en Windows{#instalaci-n-manual-del-agente-por-l-nea-de-comando-win32}
+![]({{ site.baseurl }}/assets/images/agen_8.png)
+
+## Instalación manual del Agente por línea de comandos en
 
 Para realizar la instalación del Agente ADM por línea de comando se puede ejecutar la siguiente instrucción desde el _command promt_ de Windows:
 
