@@ -1,4 +1,7 @@
-## Más acciones {#m-s-acciones}
+---
+title: Más acciones
+chapter: "software"
+---
 
 *   Apagar dispositivo
 
