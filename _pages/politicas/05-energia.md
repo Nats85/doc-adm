@@ -1,4 +1,7 @@
-## Energía {#energ-a}
+---
+title: Energía
+chapter: "politicas"
+---
 
 En esta opción se realiza la configuración de los planes de energía. Para poder hacer uso de esta configuración se debe hacer la activación de la opción ‘Configurar planes de energía’.
 
