@@ -3,7 +3,7 @@ title: Generales
 chapter: "configuracion"
 ---
 
-### Roles y permisos {#roles-y-permisos}
+### Roles y permisos
 
 Un rol es el conjunto de permisos que puede tener un usuario para utilizar la consola ADM. Es posible adicionar varios roles a un mismo usuario. Para crear un rol, ingrese a **Configuración &gt; Generales &gt; Roles** **y** **permisos**, luego haga clic en el menú desplegable de **Más opciones** y seleccione la opción **Nuevo**; se visualizará un formulario para completar el nombre del rol y una descripción.
 
@@ -11,7 +11,7 @@ En la pestaña **Permisos** seleccione las opciones que desea para este rol.
 
 Haga clic en **Guardar**. Aparecerá un mensaje confirmando que se guardó correctamente la información del rol.
 
-### Usuarios {#usuarios}
+### Usuarios
 
 En la sección **Usuarios** se encuentran los usuarios creados desde la consola de ADM y los que están sincronizados con el directorio empresarial.
 
@@ -23,7 +23,7 @@ Haga clic en la pestaña **Roles** y seleccione el rol que desea asociar al usua
 
 Para editar un usuario, haga clic sobre el usuario a modificar y seleccione la información que desea cambiar en cualquiera de las pestañas **General**, **Grupos** o **Roles**. Una vez modificada la información, guarde los cambios haciendo clic en **Actualizar**.
 
-### Grupos {#grupos}
+### Grupos
 
 En la sección **Grupos** es posible crear y visualizar los grupos (creados manualmente o importados del directorio activo) que se usarán en las diferentes funcionalidades de la herramienta. En esta pestaña es posible configurar el grupo de energía (grupo de ubicación) obligatorio para crear las políticas de uso de energía.
 
@@ -69,11 +69,11 @@ Aparecerá un mensaje en la parte inferior de la pantalla confirmando la correct
 
 Puede configurar los permisos de control remoto sobre las máquinas de un grupo haciendo clic en el icono que aparece al lado del nombre del grupo. Luego haga clic en **Editar permisos para soporte remoto** al lado derecho de la pantalla. Aparecerá una ventana en donde se pueden seleccionar grupos o usuarios (ubicándolos con la barra de búsqueda) y definir para cada uno el rol que tendrá sobre estas máquinas (Administrador/Gestor).
 
-### Licencias {#licencias}
+### Licencias
 
 En la sección **Licencias** se carga el archivo de licenciamiento de la consola para que funcione correctamente. Ver detalles en [6\. Licenciamiento](..\licenciamiento.md).
 
-### Alertas {#alertas}
+### Alertas
 
 En esta sección podrá realizar la configuración de las notificaciones sobre eventos específicos. Podrá modificar las alertas existentes, teniendo en cuenta la siguiente información:
 
@@ -81,11 +81,11 @@ En esta sección podrá realizar la configuración de las notificaciones sobre e
 *   **Estado**: Puede ser activo o inactivo. Solo se notifica sobre alguna novedad cuando el estado de la alerta es activo.
 *   **Eliminar alertas**: Cuando la opción de eliminación de alertas está habilitada se puede acceder a la configuración de la periodicidad de eliminación de las alertas (última semana, último mes o último año).
 
-### Integración empresarial {#integraci-n-empresarial}
+### Integración empresarial
 
 La sección de integración empresarial se compone de los siguientes cuatro módulos:
 
-### LDAP {#ldap}
+### LDAP
 
 La sincronización de ADM con el directorio activo de usuarios y grupos se realiza importando el directorio empresarial desde el módulo de LDAP.
 
@@ -99,7 +99,7 @@ Tenga en cuenta que, dependiendo del tamaño de su pantalla, puede ser necesario
 
 La sincronización del LDAP, se puede ejecutar de manera inmediata o programada con una periodicidad de ejecución diaria, semanal o mensual. Para hacer esta configuración vaya a la pestaña **Sincronización** al lado derecho de la pantalla, llene los campos y haga clic en **Guardar**.
 
-### Servidor de correo {#servidor-de-correo}
+### Servidor de correo
 
 En el módulo **Servidor de Correo** ingrese la información del correo electrónico remitente de las notificaciones que se enviarán a los usuarios desde la consola web, de acuerdo con las acciones que se realicen en la aplicación.
 
@@ -109,22 +109,22 @@ Opcionalmente puede enviar un correo de prueba para verificar que fue correcta l
 
 Finalmente visualizará un mensaje confirmando la correcta configuración del servidor de correo electrónico.
 
-### Servidor Proxy {#servidor-proxy}
+### Servidor Proxy
 
 En el módulo **Proxy** se debe ingresar la información del servidor proxy requerida para poder comunicarse con las estaciones de trabajo.
 
-### CMDB {#cmdb}
+### CMDB
 
 En este módulo se ingresa la información para conectarse al servidor de Aranda CMDB y así poder gestionar los activos de la organización. La CMDB permite almacenar la información de los elementos de configuración de la infraestructura en su empresa (hardware y software) en un único repositorio de datos, lo cual se verá reflejado en reducción de costos, mayor eficiencia y mejora en los niveles de servicio respecto a sus recursos.
 
-#### Prerrequisitos {#prerrequisitos}
+#### Prerrequisitos
 
 *   Credenciales del usuario con permisos de creación de CI
 *   URL de conexión a la CMDB
 *   Mapeo de campos adicionales de ADM a CMDB. Esto es opcional, aunque debe confirmarse en la pantalla de cada categoría, aún si no hay nada que mapear.
 *   Proyecto predeterminado dentro de la CMDB para los CI a crear.
 
-#### Integración con Aranda CMDB Versión 8 {#integraci-n-con-aranda-cmdb-versi-n-8}
+#### Integración con Aranda CMDB Versión 8
 
 Dentro del módulo de **CMDB** elija la pestaña **Conexión con CMDB**. Allí podrá elegir el tipo de versión que desea configurar. Elija la versión 8.
 
@@ -154,7 +154,7 @@ Una vez se tengan los campos que se desean mapear, se procede a guardar la infor
 
 ![C:\Users\ivonne.gonzalez\AppData\Local\Microsoft\Windows\INetCache\Content.Word\800px-CMDB_Configuration_29.png](C:\Users\jaime.chavarriaga\Documents\Test\export\assets\cusersivonnegonzalezappdatalo.png)
 
-#### Integración con Aranda CMDB Versión 9 {#integraci-n-con-aranda-cmdb-versi-n-9}
+#### Integración con Aranda CMDB Versión 9
 
 En **Configuración &gt; Generales &gt; Integración empresarial &gt; CMDB**, elija la pestaña **Conexión con CMDB** y seleccione la versión 9\. Ingrese allí los siguientes datos: URL del servicio, usuario y contraseña. Haga clic en el botón **Verificar conexión**.
 
