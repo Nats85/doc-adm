@@ -1,4 +1,7 @@
-# Hardware {#hardware}
+---
+title: Hardware
+chapter: "inventario"
+---
 
 En **Inicio** **&gt; Inventario &gt;** **Hardware** encontrará un listado filtrable del hardware inventariado de acuerdo a los dispositivos descubiertos con inventario de HW/SW.
 
