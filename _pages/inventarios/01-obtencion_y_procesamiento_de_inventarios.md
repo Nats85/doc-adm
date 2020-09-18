@@ -17,14 +17,7 @@ Los paquetes en algunas ocasiones son fraccionados y generados de manera increme
 
 **Tamaño máximo de inventarios**
 
-| | |
-| :--- | :-- |
-| **HW/SW** | 100 kb |
-| **Archivos totales** | 1 MB |
-| **Incrementales** | 12 kb |
-| **Parches y actualizaciones** | 4 kb |
-| **Energía** | 1 kb |
-| **Uso** | 10 kb |
+[]({{ site.baseurl }}/assets/images/tabla6.png)
 
 Los valores de la tabla anterior deben tenerse en cuenta para el cálculo del ancho de banda consumido por la solución.
 
