@@ -1,4 +1,7 @@
-# Reportes {#reportes}
+---
+title: Reportes
+chapter: "reportes"
+---
 
 Este módulo de la consola ADM permite al usuario visualizar cada uno de los reportes preestablecidos de producto para facilitar el análisis de datos. La información se presenta en diferentes niveles: consolidados, listados y detalles. Los reportes son interactivos, es decir que el usuario puede utilizar filtros para delimitar la información consultada. Los reportes pueden considerarse como documentos, ya que la interfaz permite en todos los casos exportar a diferentes formatos, incluidos PDF y Excel.
 
