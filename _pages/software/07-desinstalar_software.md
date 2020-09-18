@@ -1,4 +1,7 @@
-## Desinstalar software {#desinstalar-software}
+---
+title: Desinstalar software
+chapter: "software"
+---
 
 Esta acción desinstala el software seleccionado.
 
