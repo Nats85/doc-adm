@@ -3,9 +3,7 @@ title: Funcionalidades y componentes
 chapter: "funcionalidades"
 ---
 
-![](/assets/componentes-adm.png)
-
-
+![]({{ site.baseurl }}/assets/images/componentes-adm.png)
 
 El **Servidor de Aplicaciones** contiene los componentes que tienen acceso directo al **Servidor de base de datos**. Aquí se encuentran:
 
