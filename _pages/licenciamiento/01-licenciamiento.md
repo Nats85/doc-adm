@@ -1,4 +1,7 @@
-# Licenciamiento {#licenciamiento}
+---
+title: Licenciamiento
+chapter: "licenciamiento"
+---
 
 Todos los productos de Aranda Software requieren una licencia para su funcionamiento, por tal razón, la primera vez que ingrese a ADM visualizará primero la sección **Licencias** en donde deberá cargar el archivo de licenciamiento de la consola para que esta funcione correctamente.
 
