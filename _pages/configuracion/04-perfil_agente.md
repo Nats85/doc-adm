@@ -7,4 +7,8 @@ El perfil se utiliza al momento de instalar el agente; las funcionalidades princ
 
 Ingrese a **Configuración &gt; Aranda Device Management &gt; Perfil Agente**, despliegue la lista **Más opciones** y seleccione **Perfil del agente**.
 
+[]({{ site.baseurl }}/assets/images/perfil_1.png)
+
 Seleccione el producto que desea, se habilitarán las opciones disponibles para ese producto.
+
+[]({{ site.baseurl }}/assets/images/perfil_2.png)
