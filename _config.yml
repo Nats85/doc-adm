@@ -40,7 +40,7 @@ $sidebar-color: $orange
 ## Output
 url             :
 baseurl         : /doc-adm
-destination     : _site         ## Output folder
+destination     : _site          ## Output folder
 
 ## Collection Settings
 ## ===================
